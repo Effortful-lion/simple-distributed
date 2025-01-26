@@ -1,0 +1,39 @@
+go 2025/01/23 19:58:53 这是第一条日志用来测试日志服务
+go 2025/01/23 20:05:58 这是第二条日志用来测试日志服务
+[go] - 2025/01/26 04:56:59 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:57:15 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:57:26 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:57:34 [Portal] - Failed to parse score:  strconv.ParseFloat: parsing "": invalid syntax
+
+[go] - 2025/01/26 04:57:40 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:57:50 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:58:05 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:58:13 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:58:21 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 04:58:51 [Portal] - Failed to save grade to Grading Service. Status:  200
+
+[go] - 2025/01/26 15:11:51 [Portal] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/01/26 15:11:51 [Portal] - http: Server closed
+
+[go] - 2025/01/26 15:44:39 [Portal] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/01/26 15:44:39 [Portal] - http: Server closed
+
+[go] - 2025/01/26 15:49:07 [Portal] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/01/26 15:49:07 [Portal] - http: Server closed
+
+[go] - 2025/01/26 16:15:41 [GradingService] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/01/26 16:21:54 [Portal] - Delete "http://localhost:3000/services": dial tcp [::1]:3000: connectex: No connection could be made because the target machine actively refused it.
+
+[go] - 2025/01/27 04:11:42 Happy New Year!!!
